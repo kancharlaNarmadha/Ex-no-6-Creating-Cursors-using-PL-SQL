@@ -13,8 +13,8 @@ To create a cursor using PL/SQL.
 # Program:
 # Create employee table
 ```
-```
 create table employee1(empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
+```
 ```
    set serveroutput on;
    declare
@@ -41,7 +41,6 @@ create table employee1(empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salar
    /
 ```
 # Output:
-
 # Employee table
 ![dbms exp 5 1](https://github.com/kancharlaNarmadha/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119559316/0ae4c904-0b05-4f26-baee-64a0d1747b9d)
 # Cursor using PL/SQL:
