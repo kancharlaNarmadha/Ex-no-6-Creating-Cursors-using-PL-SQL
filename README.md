@@ -13,6 +13,7 @@ To create a cursor using PL/SQL.
 # Program:
 # Create employee table
 ```
+```
 create table employee1(empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
 ```
    set serveroutput on;
